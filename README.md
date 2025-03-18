@@ -17,9 +17,9 @@ A lightweight, cross-platform file-sharing server that allows you to share files
 
 ## 📸 Screenshots
 
-| Upload Interface | Files List |
-|------------------|-----------|
-| ![Upload](screenshots/upload.png) | ![List](screenshots/files_list.png) |
+| Upload Interface                   | Files List                      |
+|------------------------------------|---------------------------------|
+| ![Upload](screenshots/upload.jpeg) | ![List](screenshots/files.jpeg) |
 
 ---
 

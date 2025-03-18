@@ -125,4 +125,4 @@ def show_ip_dialog():
 
 if __name__ == '__main__':
     Thread(target=show_ip_dialog).start()
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5500)
